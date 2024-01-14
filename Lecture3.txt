@@ -1,0 +1,5 @@
+======================================= This is version 0 of my project.==================================
+
+======================================= This is version 1 of my project.==================================
+
+Now I am trying to make changes, so that my new commit i.e, COMMIT 1 can be generated.

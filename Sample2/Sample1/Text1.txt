@@ -7,3 +7,6 @@ $ git commit -m "COMMIT 3:to learn git diff --staged"
  3 files changed, 8 insertions(+), 1 deletion(-)
  delete mode 100644 Lectures3_dB.accdb
  create mode 100644 Sample2/Text2.txt
+
+
+Modifying Sample2/sample1/text1 to learn skipping staging area

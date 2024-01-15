@@ -1,1 +1,5 @@
 error.log
+*.log
+/Sample1/
+Sample1/text1
+Sample1/

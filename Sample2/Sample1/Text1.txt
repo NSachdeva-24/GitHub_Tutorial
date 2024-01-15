@@ -1,7 +1,6 @@
-Modifying to learn GIT DIFF command.
+dsgf
 
-Again checking working of git diff command
-
+====================== in Text1.txt file ==========================
 user-p@DESKTOP-LLTOFKV MINGW64 ~/Desktop/NEHA/Cadence/Learnings/GitHub/CodeWithHarry (master)
 $ git commit -m "COMMIT 3:to learn git diff --staged"
 [master 7640c32] COMMIT 3:to learn git diff --staged
